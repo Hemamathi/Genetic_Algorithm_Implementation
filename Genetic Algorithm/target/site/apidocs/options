@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/Niranjanii/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/Niranjanii/Documents/Local Disk C/Masters/PSA_PROJECT/INFO_6205_Team10/INFO_6205_Team10/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2017. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Niranjanii/Documents/Local Disk C/Masters/PSA_PROJECT/INFO_6205_Team10/INFO_6205_Team10/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'INFO_6205_Team10 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Niranjanii/Documents/Local Disk C/Masters/PSA_PROJECT/INFO_6205_Team10/INFO_6205_Team10/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'INFO_6205_Team10 1.0-SNAPSHOT API'
